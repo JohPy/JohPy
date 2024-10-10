@@ -2,7 +2,7 @@ Hi, I’m Joh :)
 
 I study Computer Science in Culture and Health at the HTW Berlin.
 
-I have experience with Python, C, Java and HTML.
+I have experience with Python, C, Java and Kotlin.
 
 <!---
 JohPy/JohPy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
